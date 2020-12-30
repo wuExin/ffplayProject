@@ -1,0 +1,37 @@
+﻿  ffplay.c
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(883): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(884): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(997): warning C4018: “<”: 有符号/无符号不匹配
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(1086): warning C4244: “-=”: 从“int64_t”转换到“int”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(1171): warning C4244: “=”: 从“double”转换到“FFTSample”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(1185): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(1186): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(1209): warning C4018: “>=”: 有符号/无符号不匹配
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(1660): warning C4018: “<”: 有符号/无符号不匹配
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(2451): warning C4018: “>=”: 有符号/无符号不匹配
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(2573): warning C4018: “>=”: 有符号/无符号不匹配
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(2850): warning C4018: “<”: 有符号/无符号不匹配
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3225): warning C4244: “函数”: 从“int64_t”转换到“unsigned int”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3242): warning C4018: “<”: 有符号/无符号不匹配
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3252): warning C4018: “>=”: 有符号/无符号不匹配
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3235): warning C4244: “初始化”: 从“double”转换到“int64_t”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3357): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3359): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3361): warning C4244: “=”: 从“int64_t”转换到“double”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3367): warning C4244: “函数”: 从“double”转换到“int64_t”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3414): warning C4244: “函数”: 从“double”转换到“int64_t”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3419): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3424): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3431): warning C4244: “=”: 从“double”转换到“int64_t”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3468): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3474): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3576): warning C4090: “初始化”: 不同的“const”限定符
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3577): warning C4090: “初始化”: 不同的“const”限定符
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3578): warning C4090: “初始化”: 不同的“const”限定符
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3601): warning C4090: “初始化”: 不同的“const”限定符
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3613): warning C4090: “初始化”: 不同的“const”限定符
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3614): warning C4090: “初始化”: 不同的“const”限定符
+f:\ffmpeg\ffplay_vs2019-master\ffplay_vs2019\ffplay.c(3615): warning C4090: “初始化”: 不同的“const”限定符
+  ffplay_vs2019.vcxproj -> F:\ffmpeg\ffplay_VS2019-master\x64\Debug\ffplay_vs2019.exe
+  ffplay_vs2019.vcxproj -> F:\ffmpeg\ffplay_VS2019-master\x64\Debug\ffplay_vs2019.pdb (Full PDB)
